@@ -1,0 +1,42 @@
+#header-container {
+  min-height: 100px;
+  padding: 0 20%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+#header-title-container {
+  display: flex;
+}
+#header-logo {
+  width: 80px;
+  height: 80px;
+}
+#header-title-section {
+  margin-left: 20px;
+  max-width: 350px;
+}
+#header-title {
+  font-size: 30px;
+  color: var(--color-primary-bright);
+}
+#header-sub-title {
+  font-size: 14px;
+  font-weight: bold;
+}
+#header-address {
+  font-size: 12px;
+  font-weight: bold;
+  color: gray;
+}
+.header-icon {
+  margin: 0 10px;
+  color: var(--color-primary);
+}
+#header-right-section {
+  display: flex;
+}
+#header-contacts {
+  color: var(--color-primary);
+  font-weight: bold;
+}

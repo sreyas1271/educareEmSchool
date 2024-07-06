@@ -1,0 +1,19 @@
+#footer-container {
+  background-color: var(--color-primary);
+  color: white;
+  display: grid;
+  grid-template-columns: 2fr 1fr 1fr;
+  padding: 50px 30px;
+}
+#footer-address-title,
+#footer-admissions-title {
+  font-weight: bold;
+  font-size: 30px;
+}
+#footer-address-value {
+  margin: 45px 0;
+  max-width: 350px;
+}
+#footer-admissions-phone {
+  margin: 45px 0;
+}

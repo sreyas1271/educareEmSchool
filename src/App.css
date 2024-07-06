@@ -1,0 +1,11 @@
+:root {
+  --color-primary: #7f0000;
+  --color-primary-bright: #ea194a;
+  --color-primary-dark: #bb2d3b;
+  --color-primary-extra-dark: #560202;
+  --color-secondary: #a5913b;
+  --color-secondary-bright: #ecc700;
+  --font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  font-family: var(--font-family);
+}
